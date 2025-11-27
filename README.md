@@ -15,19 +15,8 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- LEFT -->
-    <td width="50%" align="center">
-
-### 👨‍💻 Sobre mim
-- 💻 Focado em Back-End  
-- 🚀 Evoluindo para Full-Stack  
-- 🧠 Clean Code  
-- 🔥 Aprendizado contínuo  
-
-### ⚡ Tecnologias  
-<p>
+## 🔧 Tecnologias  
+<p align="center">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -37,24 +26,33 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+
+### 📘 Sobre mim
+- 💻 Back-end  
+- 🚀 Caminho para Full-Stack  
+- 🔥 Clean Code  
+- 📚 Estudando todos os dias  
+
     </td>
+    <td align="center" width="50%">
 
-    <!-- RIGHT -->
-    <td width="50%" align="center">
+### 📊 Estatísticas  
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=GabSimag&show_icons=true&theme=github_dark&hide_border=true"/>
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GabSimag&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabSimag&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabSimag&layout=compact&theme=github_dark&hide_border=true"/>
 
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
