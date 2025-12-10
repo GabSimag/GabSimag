@@ -47,7 +47,6 @@
 
 <img height="150" src="https://readmestats-gabsimag-gabsimags.vercel.app/api/top-langs/?username=GabSimag&layout=compact&theme=github_dark&hide_border=true"/>
 
-
 </td>
 </tr>
 </table>
