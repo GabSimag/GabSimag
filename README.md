@@ -43,9 +43,9 @@
 <td align="center" width="50%">
 
 ### 📊 Estatísticas  
-<img height="150" src="https://readmestats-gabsimag-gabsimags.vercel.app/api?username=GabSimag&show_icons=true&theme=github_dark&hide_border=true&t=1"/>
+<img height="150" src="https://readmestats-gabsimag-gabsimags.vercel.app/api?username=GabSimag&show_icons=true&theme=github_dark&hide_border=true&t=2"/>
 
-<img height="150" src="https://readmestats-gabsimag-gabsimags.vercel.app/api/top-langs/?username=GabSimag&layout=compact&theme=github_dark&hide_border=true&t=1"/>
+<img height="150" src="https://readmestats-gabsimag-gabsimags.vercel.app/api/top-langs/?username=GabSimag&layout=compact&theme=github_dark&hide_border=true&t=2"/>
 
 </td>
 </tr>
