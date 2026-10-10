@@ -1,68 +1,83 @@
-<!-- Cabeçalho -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Gabriel%20Siqueira%20Magalh%C3%A3es&fontSize=38&fontColor=a9fef7&fontAlignY=38&desc=Estudante%20%E2%80%A2%20Back-End%20%E2%80%A2%20Full-Stack%20em%20evolu%C3%A7%C3%A3o&descSize=16&descColor=f8d847&descAlignY=58"/>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile/hero-static.png" />
+    <img width="100%" src="./assets/profile/hero.gif" alt="Gabriel Siqueira Magalhães — Back-End / Full-Stack em evolução. Cabeçalho com órbitas neon animadas." />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=480&lines=Sempre+aprendendo.;Sempre+evoluindo.;Back-End+%E2%86%92+Full-Stack+%F0%9F%9A%80"/>
+  <a href="#projetos">🚀 <b>Projetos</b></a> &nbsp; / &nbsp;
+  <a href="#stack">🧬 <b>Tecnologias</b></a> &nbsp; / &nbsp;
+  <a href="mailto:gabrielsm1153@gmail.com">✉️ <b>Contato</b></a> &nbsp; / &nbsp;
+  <a href="https://instagram.com/gabs.sima">📸 <b>Instagram</b></a>
 </p>
 
+<br/>
+
+<p align="center"><img width="100%" src="./assets/profile/terminal.svg" alt="Sou Gabriel, estudante brasileiro com foco em Back-End e evolução para Full-Stack. Entender a lógica, construir, aprender e repetir." /></p>
+
+<p align="center"><img width="100%" src="./assets/profile/signal.svg" alt="" /></p>
+
+<h2 id="projetos">🚀 Projetos em destaque</h2>
+<p>Do desenvolvimento de sistemas às experiências no navegador: um pouco do que estou construindo e explorando.</p>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/GabSimag/Software_PATRIMOV"><img width="100%" src="./assets/profile/patrimov.svg" alt="PATRIMOV — gestão patrimonial em equipe com PHP, MySQL e JavaScript. Abrir repositório." /></a></td>
+<td width="50%"><a href="https://github.com/GabSimag/Convites"><img width="100%" src="./assets/profile/convites.svg" alt="Convites — projeto PHP com ambiente Docker. Abrir repositório." /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/GabSimag/Desvie-da-Bomba"><img width="100%" src="./assets/profile/bomba.svg" alt="Desvie da Bomba — projeto de jogo para o navegador com HTML, CSS e JavaScript. Abrir repositório." /></a></td>
+<td width="50%"><a href="https://github.com/GabSimag/react-base"><img width="100%" src="./assets/profile/react.svg" alt="React Base — base com React, TypeScript e Vite. Abrir repositório." /></a></td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/GabSimag?tab=repositories"><b>Explorar todos os repositórios ↗</b></a></p>
+
+<br/>
+
+<h2 id="stack">🧬 Tecnologias em órbita</h2>
+<p>Ferramentas presentes nos meus projetos e estudos. Cada uma, um novo jeito de resolver problemas.</p>
+
+<p align="center"><b>DESENVOLVIMENTO &amp; ESTUDOS</b></p>
 <p align="center">
-  <a href="https://github.com/GabSimag">
-    <img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=a9fef7"/>
-  </a>
-  <a href="mailto:gabrielsm1153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fe428e?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/gabs.sima">
-    <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img width="48" height="48" src="./assets/profile/javascript.svg" alt="JavaScript" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/typescript.svg" alt="TypeScript" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/php.svg" alt="PHP" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/python.svg" alt="Python" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/java.svg" alt="Java" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/cplusplus.svg" alt="C++" /> &nbsp; 
 </p>
-
----
-
-<h2 align="center">🔧 Tecnologias</h2>
-
+<p align="center"><sub>JavaScript · TypeScript · PHP · Python · Java · C++</sub></p>
+<br/>
+<p align="center"><b>INTERFACES, DADOS &amp; VERSIONAMENTO</b></p>
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img width="48" height="48" src="./assets/profile/react.svg" alt="React" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/mysql.svg" alt="MySQL" /> &nbsp; 
+  <img width="48" height="48" src="./assets/profile/git.svg" alt="Git" /> &nbsp; 
 </p>
+<p align="center"><sub>React · MySQL · Git</sub></p>
 
----
+<p align="center"><img width="100%" src="./assets/profile/signal.svg" alt="" /></p>
 
-<h2 align="center">📘 Sobre mim</h2>
-
+<h2>🐍 Um commit de cada vez</h2>
+<p>Experimentar, errar, entender e melhorar. A evolução vai deixando seu rastro.</p>
 <p align="center">
-  💻 Foco em <b>Back-End</b> &nbsp;•&nbsp;
-  🚀 Caminho para <b>Full-Stack</b> &nbsp;•&nbsp;
-  🔥 <b>Clean Code</b> &nbsp;•&nbsp;
-  📚 Estudando todos os dias
+  <img width="100%" src="https://raw.githubusercontent.com/GabSimag/GabSimag/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha animada percorrendo minhas contribuições no GitHub." />
 </p>
 
----
-
-<h2 align="center">📊 Estatísticas</h2>
-
+<details>
+<summary><b>📊 Abrir telemetria do GitHub</b></summary>
+<br/>
 <p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GabSimag&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabSimag&theme=radical&layout=compact&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabSimag&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=39E7C7&amp;icon_color=B795FF&amp;text_color=BAC8DB&amp;locale=pt-br" alt="Estatísticas públicas de GabSimag" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabSimag&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=39E7C7&amp;text_color=BAC8DB&amp;locale=pt-br" alt="Linguagens presentes nos repositórios públicos" />
 </p>
+</details>
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=GabSimag&theme=radical&hide_border=true"/>
-</p>
+<br/>
 
----
-
-<p align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/GabSimag/GabSimag/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
-</p>
+<p align="center"><b>O próximo nível começa com a próxima ideia.</b><br/><sub>Tem um projeto, uma dúvida ou uma ideia? Vamos conversar.</sub></p>
+<p align="center"><a href="mailto:gabrielsm1153@gmail.com"><b>✉️ E-mail</b></a> &nbsp; · &nbsp; <a href="https://instagram.com/gabs.sima"><b>📸 Instagram</b></a></p>
+<p align="center"><img width="100%" src="./assets/profile/signal.svg" alt="" /></p>
