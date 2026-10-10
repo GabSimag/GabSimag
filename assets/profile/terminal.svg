@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="254" viewBox="0 0 1000 254" role="img"><title>Sobre Gabriel — terminal animado</title><rect x="1" y="1" width="998" height="252" rx="16" fill="#0C1320" stroke="#283448"/>
+<path d="M1 43H999" stroke="#283448"/>
+<circle cx="23" cy="23" r="5" fill="#FF6A81"/><circle cx="41" cy="23" r="5" fill="#F6C760"/><circle cx="59" cy="23" r="5" fill="#39E7C7"/>
+<text x="500" y="27" text-anchor="middle" fill="#8192AB" font-family="monospace" font-size="11">gabriel@dev ~ /about-me</text>
+<g font-family="DejaVu Sans Mono, monospace" font-size="16">
+<text x="28" y="79" fill="#39E7C7">❯ whoami</text>
+<text x="28" y="111" fill="#E0E8F4">Gabriel Siqueira Magalhães</text>
+<text x="28" y="142" fill="#AAB9CD">Estudante • Brasil • Desenvolvedor em evolução</text>
+<text x="28" y="180" fill="#B795FF">❯ cat mindset.txt</text>
+<text x="28" y="212" fill="#AAB9CD">Entender a lógica. Construir. Aprender. Repetir.</text>
+<rect x="563" y="198" width="9" height="18" fill="#39E7C7"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.2s" repeatCount="indefinite"/></rect></g>
+<circle cx="961" cy="78" r="5" fill="#39E7C7"><animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/></circle>
+<text x="933" y="81" text-anchor="end" fill="#70859F" font-family="monospace" font-size="10">LEARNING</text></svg>
